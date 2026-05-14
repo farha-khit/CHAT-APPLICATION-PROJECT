@@ -1,5 +1,7 @@
 # 🚀 NexusChat Real-Time Chat Application
 
+![NexusChat UI](assets/screenshot.png)
+
 A professional-grade, multi-client chat application built with Python using TCP sockets, threading, and a modern GUI.
 
 ## ✨ Features
