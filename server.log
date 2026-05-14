@@ -1,0 +1,45 @@
+2026-05-13 19:37:13,375 [INFO] ChatServer listening on 0.0.0.0:9001
+2026-05-13 19:39:08,722 [INFO] ChatServer listening on 0.0.0.0:9001
+2026-05-13 19:40:38,590 [INFO] New connection from ('127.0.0.1', 64017)
+2026-05-13 19:40:38,609 [ERROR] Recv error from ('127.0.0.1', 64017): 
+2026-05-13 19:40:39,612 [INFO] New connection from ('127.0.0.1', 64018)
+2026-05-13 19:40:40,402 [ERROR] Recv error from ('127.0.0.1', 64018): 
+2026-05-13 19:40:41,406 [INFO] New connection from ('127.0.0.1', 64021)
+2026-05-13 19:40:46,120 [ERROR] Recv error from ('127.0.0.1', 64021): 
+2026-05-13 19:40:47,124 [INFO] New connection from ('127.0.0.1', 64024)
+2026-05-13 19:40:47,313 [ERROR] Recv error from ('127.0.0.1', 64024): 
+2026-05-13 19:40:48,316 [INFO] New connection from ('127.0.0.1', 64025)
+2026-05-13 19:40:55,138 [ERROR] Recv error from ('127.0.0.1', 64025): 
+2026-05-13 19:40:56,142 [INFO] New connection from ('127.0.0.1', 62827)
+2026-05-13 19:41:17,101 [INFO] New connection from ('127.0.0.1', 58647)
+2026-05-13 19:41:17,104 [ERROR] Recv error from ('127.0.0.1', 58647): 
+2026-05-13 19:41:18,107 [INFO] New connection from ('127.0.0.1', 58649)
+2026-05-13 19:41:25,604 [ERROR] Recv error from ('127.0.0.1', 58649): 
+2026-05-13 19:41:26,480 [INFO] New connection from ('127.0.0.1', 58653)
+2026-05-13 19:41:26,480 [ERROR] Recv error from ('127.0.0.1', 58653): 
+2026-05-13 19:41:26,606 [INFO] New connection from ('127.0.0.1', 58654)
+2026-05-13 19:41:27,482 [INFO] New connection from ('127.0.0.1', 58655)
+2026-05-13 19:51:09,930 [INFO] New connection from ('127.0.0.1', 64459)
+2026-05-13 19:51:10,105 [INFO] ChatServer listening on 0.0.0.0:9001
+2026-05-13 19:51:10,907 [INFO] New connection from ('127.0.0.1', 64461)
+2026-05-13 19:53:51,477 [INFO] New connection from ('127.0.0.1', 54855)
+2026-05-13 19:53:51,657 [INFO] ChatServer listening on 0.0.0.0:9001
+2026-05-13 19:53:52,353 [INFO] New connection from ('127.0.0.1', 54856)
+2026-05-13 21:50:32,145 [INFO] ChatServer listening on 0.0.0.0:9001
+2026-05-13 21:50:40,735 [INFO] New connection: ('127.0.0.1', 62804)
+2026-05-13 21:50:59,645 [INFO] New connection: ('127.0.0.1', 62823)
+2026-05-13 21:52:00,131 [INFO] New connection: ('127.0.0.1', 62865)
+2026-05-13 21:52:00,132 [ERROR] recv error ('127.0.0.1', 62865): 
+2026-05-13 21:52:33,593 [INFO] New connection: ('127.0.0.1', 62896)
+2026-05-13 21:54:19,039 [INFO] ChatServer listening on 0.0.0.0:9001
+2026-05-13 21:54:19,777 [INFO] New connection: ('127.0.0.1', 62248)
+2026-05-13 22:06:29,466 [INFO] ChatServer listening on 0.0.0.0:9001
+2026-05-13 22:06:30,147 [INFO] New connection: ('127.0.0.1', 50623)
+2026-05-13 22:06:31,453 [INFO] New connection: ('127.0.0.1', 50624)
+2026-05-13 22:06:31,454 [INFO] Connected to 127.0.0.1:9001
+2026-05-13 22:06:45,849 [INFO] 'Josh' logged in from ('127.0.0.1', 50624)
+2026-05-15 00:11:39,149 [INFO] ChatServer listening on 0.0.0.0:9001
+2026-05-15 00:12:17,704 [INFO] ChatServer listening on 0.0.0.0:9001
+2026-05-15 00:12:40,706 [INFO] New connection: ('127.0.0.1', 58647)
+2026-05-15 00:12:40,707 [INFO] Connected to 127.0.0.1:9001
+2026-05-15 00:12:46,031 [INFO] 'Josh' logged in from ('127.0.0.1', 58647)

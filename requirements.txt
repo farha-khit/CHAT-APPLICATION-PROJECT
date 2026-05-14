@@ -1,0 +1,6 @@
+bcrypt
+cryptography
+customtkinter
+pillow
+pygame
+win10toast
